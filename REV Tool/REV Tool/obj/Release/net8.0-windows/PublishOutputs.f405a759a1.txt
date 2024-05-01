@@ -1,0 +1,5 @@
+C:\Users\LeGiionZ\Documents\Desarrollos\TestAutoUpdater\REV Tool\REV Tool\bin\Release\net8.0-windows\app.publish\REV Tool.exe
+C:\Users\LeGiionZ\Documents\Desarrollos\TestAutoUpdater\REV Tool\REV Tool\bin\Release\net8.0-windows\app.publish\REV Tool.dll
+C:\Users\LeGiionZ\Documents\Desarrollos\TestAutoUpdater\REV Tool\REV Tool\bin\Release\net8.0-windows\app.publish\REV Tool.deps.json
+C:\Users\LeGiionZ\Documents\Desarrollos\TestAutoUpdater\REV Tool\REV Tool\bin\Release\net8.0-windows\app.publish\REV Tool.runtimeconfig.json
+C:\Users\LeGiionZ\Documents\Desarrollos\TestAutoUpdater\REV Tool\REV Tool\bin\Release\net8.0-windows\app.publish\REV Tool.pdb
