@@ -2,7 +2,7 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <PublishUrlHistory>C:\Users\LeGiionZ\Documents\Desarrollos\TestAutoUpdater\published\|publish\</PublishUrlHistory>
-    <InstallUrlHistory />
+    <InstallUrlHistory>https://github.com/LeGiionZ/TestAutoUpdater/tree/main/published/</InstallUrlHistory>
     <SupportUrlHistory />
     <UpdateUrlHistory />
     <BootstrapperUrlHistory />
