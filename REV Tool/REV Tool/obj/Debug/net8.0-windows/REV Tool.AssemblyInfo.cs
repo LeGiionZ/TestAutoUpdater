@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("REV Tool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66e8001882a961bc4a21579d1ff7dda3c0863106")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57702260a78be9e1ec17b82d77c2811f76eb110b")]
 [assembly: System.Reflection.AssemblyProductAttribute("REV Tool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("REV Tool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

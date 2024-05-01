@@ -62,13 +62,13 @@
       <dsig:DigestValue>If31GTzzSkQ7rKrDMGn/EwJW8k7b4fdMc1kWBzxCgOE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="REV Tool.dll" size="5632">
+  <file name="REV Tool.dll" size="6656">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>/Ej0fY1q325gjzZMu2r8RFXgMS7P0VEYn3X/b5iRihs=</dsig:DigestValue>
+      <dsig:DigestValue>19em+FgiXeS5Ev4X1VsXBjQxXQqu6IAuOxq+Tjv+19M=</dsig:DigestValue>
     </hash>
   </file>
   <file name="REV Tool.exe" size="142848">
@@ -77,7 +77,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ahuFBXRLEgIiK5ocYxqOyLk3BThZ9+U2/4Nma8qzhrM=</dsig:DigestValue>
+      <dsig:DigestValue>Jw4UPqn4FH/JkI7E2nwh6gTN/rmG7wrZEIA2ALo2VRk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="REV Tool.runtimeconfig.json" size="458">
